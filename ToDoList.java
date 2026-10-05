@@ -6,8 +6,8 @@
 //
 //Group Members:
 //1. Subomi Adelana
-//2.
-//3.
+//2. Liza Naas
+//3. Jeshan Ahmad
 //
 //Milestone 1: Proposal & Java Starter
 //
