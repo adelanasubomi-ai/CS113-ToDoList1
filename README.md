@@ -44,13 +44,15 @@ Ask the user to choose an option
 
 IF the user chooses 1
 
-    Ask the user to enter a task
-    Store the task
-    Display the task that was added
+Ask the user to enter a task
+
+Store the task
+
+Display the task that was added
 
 ELSE
 
-    Display "This feature will be added later."
+Display "This feature will be added later."
 
 ENDIF
 
