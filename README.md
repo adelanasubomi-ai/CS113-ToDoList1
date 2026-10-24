@@ -67,10 +67,10 @@ END
 
 ## AI Use
 AI was used to help organize the starter code and brainstorm the structure of the To Do List project.
+
 Milestone 2 – Functional Core
 
 Description
-
 In Milestone 2, we improved our To Do List application by making it more functional and easier to use. The program now allows users to add tasks, view their tasks, and mark tasks as completed. We also added a repeating menu so users can continue using the program until they choose to exit.
 
 The program uses Java concepts such as variables, arrays, loops, conditional statements, classes, objects, methods, and user input.
