@@ -1,28 +1,27 @@
 //********************************************************************
- //File Name: ToDoList.java
- //Project: To Do List 
- //Course: CS 113 - Introduction to Computer Science I
- //Semester: Fall 2026
- //
- //Group Members:
- //1. Subomi Adelana
- //2. Liza Naas
- //3. Jeshan Ahmad
- //
- //Milestone 2: Functional core
- //
- //Description:
- //This program is the starter for our To Do List application.
- //The final program will allow users to add tasks, view their tasks,
- //and mark tasks as completed.
- //
- //Added Features:
- //1. Add a new task
- //2. View tasks that need to be completed
- //3. Mark a task as completed
- //
- //********************************************************************
-
+//File Name: ToDoList.java
+//Project: To Do List 
+//Course: CS 113 - Introduction to Computer Science I
+//Semester: Fall 2026
+//
+//Group Members:
+//1. Subomi Adelana
+//2. Liza Naas
+//3. Jeshan Ahmad
+//
+//Milestone 2: Functional core
+//
+//Description:
+//This program is the starter for our To Do List application.
+//The final program will allow users to add tasks, view their tasks,
+//and mark tasks as completed.
+//
+//Added Features:
+//1. Add a new task
+//2. View tasks that need to be completed
+//3. Mark a task as completed
+//
+//********************************************************************
  import java.util.Scanner;
 
  public class ToDoList
