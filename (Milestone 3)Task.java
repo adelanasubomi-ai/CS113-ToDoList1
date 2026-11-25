@@ -1,7 +1,7 @@
 //********************************************************************
 //File Name: Task.java
 //Description: Stores the description, completion status and priority.
-//********************************************************************
+//*********************************************************************
 public class Task
 {
     private String description;
