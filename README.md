@@ -310,3 +310,52 @@ Choose option 4 to exit.
 AI Use – Milestone 2
 
 AI was used to help organize the Java code, explain programming concepts, and prepare the project documentation. Group members should review and test the program and understand how the code works before submitting.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Milestone 3 – Java Concepts & Program Design
+
+### Description
+
+In Milestone 3, we improved our To Do List application by adding task priorities, editing, and deletion. We also separated the program into individual methods to improve organization and reduce repeated code.
+
+### New Features
+
+- Task Priority: Users can assign High, Medium, or Low priority when adding tasks.
+- Edit Task: Users can change the description of an existing task.
+- Delete Task: Users can remove tasks from the list.
+- Improved input validation and program organization.
+
+### Program Design
+
+The program consists of two classes:
+
+- **ToDoList.java:** Manages the menu, user input, and task operations through separate methods.
+- **Task.java:** Stores the task description, completion status, and priority.
+
+The program uses arrays, classes, objects, constructors, encapsulation, methods, loops, and conditional statements.
+
+### Sample Tests
+
+| Test | Expected Result |
+
+| Add a task with priority 1   | Task added with High priority |
+| Edit an existing task        | Task description updated |
+| Delete an existing task      | Task removed from the list |
+| Enter priority 5             | Invalid priority message |
+| Enter an invalid task number | Invalid task number message |
+| Enter an empty description   | Task cannot be empty |
+
+### Progress Update
+
+Since Milestone 2, we have added three new features and improved the program's structure. For Milestone 4, we plan to complete additional testing and prepare the final project materials.
+
+### How to Run
+
+1. Place ToDoList.java and Task.java in the same folder.
+2. Compile both files.
+3. Run ToDoList.java.
+4. Select an option from 1 to 6.
+
+### AI Use – Milestone 3
+AI was used to check for any small errors and find missing requirements
