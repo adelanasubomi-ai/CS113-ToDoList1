@@ -6,6 +6,9 @@ CS 113 semester project - To-Do List application in Java
 2. Liza Naas
 3. Jeshan Ahmad
 
+## GitHub Link
+https://github.com/adelanasubomi-ai/CS113-ToDoList1
+
 ## Project Proposal
 Our project is a To Do List / Task Manager application. The purpose of the program is to help users organize and keep track of tasks they need to complete. Users will be able to add new tasks, view tasks that need to be completed, and mark tasks as completed.
 
